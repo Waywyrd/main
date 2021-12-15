@@ -1,3 +1,4 @@
+
 set aaa_mode=all
 set altformat_current= %F 
 set altformat_playlist= %f%= %d 
